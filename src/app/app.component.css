@@ -1,0 +1,12 @@
+.carousel {
+    background: #EEE;
+  }
+  
+  .carousel-cell {
+    width: 1500px;
+    height: 600px;
+    margin-right: 10px;
+    background: #8C8;
+    border-radius: 5px;
+  }
+  
